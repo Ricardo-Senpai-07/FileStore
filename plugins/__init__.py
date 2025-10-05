@@ -1,4 +1,3 @@
-#(©)Codeflix Bots (ProYato)
 
 from aiohttp import web
 from .route import routes
